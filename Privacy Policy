@@ -1,0 +1,115 @@
+# Privacy Policy for Serpentine
+
+Effective date: [Month Day, Year]
+
+Serpentine is designed to record and review ride and route performance while keeping your data on your device.
+
+This Privacy Policy explains what information the app uses, how that information is processed, and what choices you have.
+
+## 1. Data We Collect
+
+We do not collect personal data from the app.
+
+Serpentine does not create user accounts, does not ask for your name or email address, does not use advertising SDKs, does not use third-party analytics SDKs, and does not send your ride data, location data, motion data, route data, or app settings to our servers.
+
+## 2. Data Processed on Your Device
+
+To provide its core features, Serpentine processes certain information locally on your device:
+
+- Location data, including precise location while recording a ride or monitoring nearby route start and finish areas.
+- Motion data, including device motion used to estimate lean angle and G-force.
+- Ride telemetry, including speed, segment times, route progress, lean angle, G-force, timestamps, and related ride metrics.
+- Route and map data, including bundled routes and routes you import.
+- App settings, including display units, visible metrics, display preferences, and calibration settings.
+- Local ride history, results, and records.
+- Backup, export, and import data when you choose to use those features.
+
+This information is stored locally on your device and is used only to provide app functionality, such as recording rides, matching routes, calculating segment results, showing ride history, displaying telemetry, and exporting or importing backups.
+
+## 3. Location Permission
+
+Serpentine requests location access because location is required to record route timing, speed, segment performance, and automatic start and finish behavior.
+
+If you allow background location access, Serpentine may use location in the background to detect route start and finish areas and support ride recording.
+
+You can change or revoke location permission at any time in iOS Settings.
+
+If you revoke location permission, some app features may not work correctly.
+
+## 4. Motion Permission
+
+Serpentine requests motion access to measure device motion and estimate lean angle and G-force during a ride.
+
+Motion data is processed locally on your device and is not sent to us or to third parties.
+
+## 5. Notifications
+
+Serpentine may request notification permission to provide app-related alerts, such as ride or route recording status.
+
+Notifications are optional and can be disabled at any time in iOS Settings.
+
+## 6. Backups, Exports, and Imports
+
+Serpentine may allow you to export ride data, route data, telemetry, or backup files. Exporting is controlled by you.
+
+If you choose to save or share an exported file using Files, iCloud Drive, AirDrop, email, messaging apps, or another service, that file will be handled according to the privacy practices of the service you choose. We do not receive a copy of exported files.
+
+If you import route or backup files into Serpentine, those files are processed locally on your device.
+
+## 7. Third-Party Services
+
+Serpentine does not use third-party advertising networks, tracking tools, or analytics services.
+
+Serpentine may use Apple system frameworks and services, such as location services, motion services, notifications, file import and export tools, and map display functionality. Data handled by Apple system services is governed by Apple’s privacy practices.
+
+If Serpentine includes links to external websites, opening those links may take you outside the app. External websites are governed by their own privacy policies.
+
+## 8. Tracking and Advertising
+
+Serpentine does not track you across apps or websites owned by other companies.
+
+Serpentine does not use the Apple advertising identifier, does not show targeted advertising, and does not sell or share personal data.
+
+## 9. Data Sharing
+
+We do not share your personal data because we do not collect personal data from the app.
+
+Your local ride history, route data, telemetry, and settings remain on your device unless you choose to export or share them yourself.
+
+## 10. Data Retention
+
+Ride history, route data, telemetry, backups, and settings are stored locally on your device until you delete them, replace them, import different data, or delete the app.
+
+Deleting the app removes the app’s local data from your device, subject to normal iOS behavior.
+
+If you previously exported backup files or stored them in iCloud Drive, Files, or another service, you must delete those exported files separately from that service.
+
+## 11. Data Deletion Requests
+
+Because we do not collect or store your data on our servers, we cannot access, view, modify, or delete your local app data for you.
+
+To delete your data, delete it inside the app where available, delete exported files from wherever you saved them, or delete the app from your device.
+
+## 12. Children’s Privacy
+
+Serpentine is not directed to children.
+
+We do not knowingly collect personal data from children or from any other users.
+
+## 13. Security
+
+Your app data is stored locally on your device using iOS storage mechanisms.
+
+You are responsible for protecting access to your device, Apple ID, iCloud account, and any exported backup files.
+
+No method of storage is perfectly secure, but we minimize privacy risk by avoiding server-side collection of ride, location, motion, and personal data.
+
+## 14. Changes to This Privacy Policy
+
+We may update this Privacy Policy if Serpentine’s features or data practices change.
+
+If we make material changes, we will update the effective date above and publish the revised policy.
+
+## 15. Contact
+
+If you have questions about this Privacy Policy or Serpentine’s privacy practices, contact us at:
